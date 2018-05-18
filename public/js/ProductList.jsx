@@ -1,6 +1,3 @@
-/*import React, {Component} from 'react'
-import Product from './Product'*/
-
 class ProductList extends React.Component {
   constructor(props) {
     super(props);
